@@ -49,6 +49,11 @@ The bot integrates with the Solana blockchain to track wallet balances, handle t
 
     The bot will now be up and running, listening for commands.
 
+### RPC Provider
+Your trading bot needs a reliable RPC endpoint to interact with the blockchain network. You can connect to any public or private node, but for consistent uptime and predictable latency, it's recommended to use a managed provider.
+
+You can create a free account at [chainstack.com](https://chainstack.com) and instantly deploy your own Solana endpoint.
+
 ## Commands
 
 - `/start` - Start the bot and generate a wallet if none exists.
